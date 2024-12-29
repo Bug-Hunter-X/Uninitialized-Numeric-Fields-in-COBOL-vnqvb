@@ -1,0 +1,1 @@
+This example demonstrates a potential, though easily avoided, error in COBOL programs involving arithmetic operations on numeric fields. While not as common as other COBOL errors (like subscript errors or file handling issues), it highlights the importance of proper field initialization.  The solution ensures explicit initialization to prevent unexpected program behavior.
